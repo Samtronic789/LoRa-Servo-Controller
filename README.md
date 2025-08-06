@@ -20,10 +20,10 @@ This project demonstrates real-time wireless control of 3 servo motors using a j
 - [Receiver Code](./Receiver/receiver.ino)
 
 ## 📷 Media
-![System Setup](./images/system-setup.jpg)
-![Working Snapshot](./images/working-shot.jpg)
+![System Setup](./images/system-setup.png)
+![Working Snapshot](./images/working-shot.png)
 
-🎥 [Click here to watch demo video](./video/demo.mp4)
+
 
 ## ⚠️ Challenges & Fixes
 | Problem | Cause | Fix |
@@ -42,5 +42,4 @@ This project demonstrates real-time wireless control of 3 servo motors using a j
 - Implement OLED status display
 - Integrate power monitoring
 
-## 📄 License
-This project is open-source under the [MIT License](LICENSE).
+
