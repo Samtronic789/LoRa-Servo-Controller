@@ -20,8 +20,8 @@ This project demonstrates real-time wireless control of 3 servo motors using a j
 - [Receiver Code](./Receiver/receiver.ino)
 
 ## 📷 Media
-![System Setup](./images/system-setup.png)
-![Working Snapshot](./images/working-shot.png)
+![System Setup](./images/transmitter-setup.png)
+![Working Snapshot](./images/reviever-setup.png)
 
 
 
