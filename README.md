@@ -23,7 +23,8 @@ This project demonstrates real-time wireless control of 3 servo motors using a j
 ![System Setup](./images/transmitter-setup.png)
 ![Working Snapshot](./images/reciever-setup.png)
 ![setup](./images/setup.png)
-![setup](./images/servo.mp4)
+
+🎥 [Click here to watch demo video](./images/servo.mp4)
 
 
 
