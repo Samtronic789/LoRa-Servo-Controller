@@ -5,7 +5,7 @@ This project demonstrates real-time wireless control of 3 servo motors using a j
 ## 🛠 Components Used
 - 2x Arduino Nano
 - 2x LoRa SX1278 modules (433 MHz)
-- 1x Joystick module (3-axis)
+- 2x Joystick module (2-axis)
 - 3x MG995 Servo motors
 - 1x 5V 3A Buck converter
 - Capacitors: 470µF and 100nF
